@@ -1,6 +1,6 @@
 # npmtest-smokestack
 
-#### test coverage for  [smokestack (v3.4.1)](https://github.com/hughsk/smokestack)  [![npm package](https://img.shields.io/npm/v/npmtest-smokestack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-smokestack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-smokestack.svg)](https://travis-ci.org/npmtest/node-npmtest-smokestack)
+#### basic test coverage for  [smokestack (v3.4.1)](https://github.com/hughsk/smokestack)  [![npm package](https://img.shields.io/npm/v/npmtest-smokestack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-smokestack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-smokestack.svg)](https://travis-ci.org/npmtest/node-npmtest-smokestack)
 
 #### Pipe your JavaScript into a browser, logging console output in Node
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-smokestack/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-smokestack/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-smokestack/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-smokestack/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-smokestack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-smokestack/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-smokestack/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-smokestack/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-smokestack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-smokestack/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-smokestack/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-smokestack/build/coverage.html/index.html)
 
