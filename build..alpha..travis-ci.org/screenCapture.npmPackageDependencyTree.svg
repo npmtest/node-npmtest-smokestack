@@ -21,7 +21,7 @@
 <tspan x="10" y="298">  │ │ └── osenv@0.0.3 </tspan>
 <tspan x="10" y="314">  │ └── shallow-copy@0.0.1 </tspan>
 <tspan x="10" y="330">  ├── convert-source-map@1.5.0 </tspan>
-<tspan x="10" y="346">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="346">  ├─┬ debug@2.6.5 </tspan>
 <tspan x="10" y="362">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="378">  ├─┬ firefox-launch@1.0.2 </tspan>
 <tspan x="10" y="394">  │ └── firefox-location@1.0.2 </tspan>
